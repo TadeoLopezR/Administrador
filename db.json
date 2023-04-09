@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Tadeo",
+      "email": "lrstadeo@hotmail.com",
+      "telefono": "123123123",
+      "empresa": "Ticmas",
+      "id": 1
+    },
+    {
+      "nombre": "Pepe",
+      "email": "Pepe@hotmail.com",
+      "telefono": "123123123",
+      "empresa": "Ticmas",
+      "id": 2
+    },
+    {
+      "nombre": "Juan",
+      "email": "lrstadeo@hotmail.com",
+      "telefono": "123123123",
+      "empresa": "Ticmas",
+      "id": 3
+    }
+  ]
+}
